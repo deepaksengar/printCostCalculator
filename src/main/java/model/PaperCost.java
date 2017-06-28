@@ -6,8 +6,6 @@ public class PaperCost {
 	private Cost singleSide;
 	private Cost doubleSide;
 	
-	
-	
 	public PaperType getPaperType() {
 		return paperType;
 	}
