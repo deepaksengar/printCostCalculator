@@ -1,5 +1,5 @@
 # PrintCostCalculator
-
+[![Build Status](https://travis-ci.org/deepaksengar/printCostCalculator.svg?branch=master)](https://travis-ci.org/deepaksengar/printCostCalculator)
 
 The application is a simulation of helps the system administrator to calculate the print costs. It takes a list of A4 print jobs and calculates the cost of each job, given the total number of pages, number of colour pages and whether printing is double-sided.
 
